@@ -1,6 +1,7 @@
 # html-css
- Estou aprendendo a criar sites e agora vou gerenciar meus repositórios
+ <h1>Navegue por alguns dos meus projetos importantes</h1>
  
+ <h2>Projetos relacionados ao <em>Curso em Vídeo</em></h2>
  <br>
  <a href="https://juliaboaskivisk.github.io/html-css/Curso%20em%20V%C3%ADdeo/Desafios/desafio%2005%20(links%20sociais)/index.html">Desafio 05 - links sociais</a>
  
