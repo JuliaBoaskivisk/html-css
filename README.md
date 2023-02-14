@@ -14,6 +14,6 @@
 <a href="https://juliaboaskivisk.github.io/html-css/Curso%20em%20V%C3%ADdeo/Desafios/desafio%2010%20(site%20completo)/android.html" target="_blank">Desafio 10 - site completo</a>
 
 
-<strong>Módulo 03</strong> <br>
+<strong>Módulo 03</strong>
 <a href="https://juliaboaskivisk.github.io/html-css/Curso%20em%20V%C3%ADdeo/Desafios/desafio%2012%20(efeito%20parallax)/index.html" target="_blank">Desafio 12 - efeito parallax</a>
 
