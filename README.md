@@ -9,7 +9,7 @@
 
 <strong>Módulo 02</strong> <br>
 
-<a href="https://juliaboaskivisk.github.io/html-css/Curso%20em%20V%C3%ADdeo/Desafios/desafio%2010%20(site%20completo)/responsivo.html" target="_blank">Desafio 10 - testando a responsividade do site</a> <br>
+<a href="https://juliaboaskivisk.github.io/html-css/Curso%20em%20V%C3%ADdeo/Desafios/desafio%2010%20(site%20completo)/responsivo.html" target="_blank">Desafio 10 - teste de responsividade</a> <br>
 
 <a href="https://juliaboaskivisk.github.io/html-css/Curso%20em%20V%C3%ADdeo/Desafios/desafio%2010%20(site%20completo)/android.html" target="_blank">Desafio 10 - site completo</a> <br>
 
