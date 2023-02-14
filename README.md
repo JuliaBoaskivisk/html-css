@@ -1,4 +1,17 @@
 # html-css
  Estou aprendendo a criar sites e agora vou gerenciar meus repositórios
+ 
  <br>
- <a href="https://juliaboaskivisk.github.io/html-css/Curso%20em%20V%C3%ADdeo/M%C3%B3dulo%2001/exerc%C3%ADcio%2001%20-%20T%C3%ADtulo%2C%20par%C3%A1grafos%20e%20divis%C3%B5es/index.html">Executar o exercício 01</a>
+ <a href="https://juliaboaskivisk.github.io/html-css/Curso%20em%20V%C3%ADdeo/Desafios/desafio%2005%20(links%20sociais)/index.html">Desafio 05 - links sociais</a>
+ 
+ <br>
+ <a href="https://juliaboaskivisk.github.io/html-css/Curso%20em%20V%C3%ADdeo/Desafios/desafio%2009%20(vídeos)/index.html">Desafio 09 - vídeos</a>
+ 
+ <br>
+ <a href="https://juliaboaskivisk.github.io/html-css/Curso%20em%20V%C3%ADdeo/Desafios/desafio%2010%20(site%20completo)/responsivo.html">Desafio 10 - testando a responsividade do site</a>
+ <br>
+ 
+ <br>
+ <a href="https://juliaboaskivisk.github.io/html-css/Curso%20em%20V%C3%ADdeo/Desafios/desafio%2010%20(site%20completo)/android.html">Desafio 10 - site completo</a>
+
+ <a href="https://juliaboaskivisk.github.io/html-css/Curso%20em%20V%C3%ADdeo/Desafios/desafio%2012%20(efeito%20parallax)/index.html">Desafio 12 - efeito parallax</a>
