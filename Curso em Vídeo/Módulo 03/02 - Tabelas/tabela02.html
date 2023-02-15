@@ -13,11 +13,33 @@
     table {
         width: 500px;
         border-collapse: collapse;
+        position: relative;
+    }
+
+    caption {
+        font-size: 1.5em;
+        font-weight: bold;
+        padding: 10px;
+        background-color: lightgray;
     }
 
     thead, tfoot {
-        background-color: gray;
+        background-color: #383838;
         color: white;
+    }
+
+    thead > tr> th {
+        background-color: #383838;
+        position: sticky;
+        top: -1px;
+    }
+
+    tbody > tr:nth-child(odd) /* 2n-1 */ {
+        background-color: lightgray;
+    }
+
+    tbody > tr:nth-child(even) /* 2n */ {
+        background-color: white;
     }
 
     td, th {
@@ -35,6 +57,7 @@
     <!--
         ANATOMIA PARA TABELAS GRANDES
         TABLE
+            CAPTION
             THEAD
                 TR, TD, TH
             TBODY
@@ -43,10 +66,11 @@
                 TR, TD, TH
     -->
     <table>
+        <caption>População das Unidades Federativas</caption>
         <thead>
             <tr>
-                <th>Estado</th>
-                <th>População</th>
+                <th scope="col">Estado</th>
+                <th scope="col" style="width: 100px;">População</th>
             </tr>
         </thead>
 
@@ -185,10 +209,19 @@
 
         <tfoot>
             <tr>
-                <th>Total de habitantes</th>
+                <th scope="row">Total de habitantes</th>
                 <td class="numero"><strong>207 883 699</strong></td>
             </tr>
         </tfoot>
     </table>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut adipisci mollitia dicta perspiciatis accusantium ea quas odio. Iusto in alias cumque similique voluptates tempora molestias mollitia sint. Voluptatibus, tempora labore? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolore, mollitia maxime nemo accusamus commodi quibusdam porro magni laudantium quae id possimus iure eveniet doloremque assumenda, tempora, ducimus incidunt. Perspiciatis, corporis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo saepe omnis consequatur est asperiores aliquam quasi officiis non rerum architecto, molestiae reiciendis dicta libero porro. Quibusdam, aspernatur. Saepe, ducimus harum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, possimus at iure obcaecati totam dolorem aspernatur temporibus odio, explicabo quas laboriosam ratione aperiam quia suscipit in corporis corrupti, aliquam officiis!</p>
+
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut adipisci mollitia dicta perspiciatis accusantium ea quas odio. Iusto in alias cumque similique voluptates tempora molestias mollitia sint. Voluptatibus, tempora labore? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolore, mollitia maxime nemo accusamus commodi quibusdam porro magni laudantium quae id possimus iure eveniet doloremque assumenda, tempora, ducimus incidunt. Perspiciatis, corporis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo saepe omnis consequatur est asperiores aliquam quasi officiis non rerum architecto, molestiae reiciendis dicta libero porro. Quibusdam, aspernatur. Saepe, ducimus harum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, possimus at iure obcaecati totam dolorem aspernatur temporibus odio, explicabo quas laboriosam ratione aperiam quia suscipit in corporis corrupti, aliquam officiis!</p>
+
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut adipisci mollitia dicta perspiciatis accusantium ea quas odio. Iusto in alias cumque similique voluptates tempora molestias mollitia sint. Voluptatibus, tempora labore? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolore, mollitia maxime nemo accusamus commodi quibusdam porro magni laudantium quae id possimus iure eveniet doloremque assumenda, tempora, ducimus incidunt. Perspiciatis, corporis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo saepe omnis consequatur est asperiores aliquam quasi officiis non rerum architecto, molestiae reiciendis dicta libero porro. Quibusdam, aspernatur. Saepe, ducimus harum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, possimus at iure obcaecati totam dolorem aspernatur temporibus odio, explicabo quas laboriosam ratione aperiam quia suscipit in corporis corrupti, aliquam officiis!</p>
+
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut adipisci mollitia dicta perspiciatis accusantium ea quas odio. Iusto in alias cumque similique voluptates tempora molestias mollitia sint. Voluptatibus, tempora labore? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolore, mollitia maxime nemo accusamus commodi quibusdam porro magni laudantium quae id possimus iure eveniet doloremque assumenda, tempora, ducimus incidunt. Perspiciatis, corporis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo saepe omnis consequatur est asperiores aliquam quasi officiis non rerum architecto, molestiae reiciendis dicta libero porro. Quibusdam, aspernatur. Saepe, ducimus harum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, possimus at iure obcaecati totam dolorem aspernatur temporibus odio, explicabo quas laboriosam ratione aperiam quia suscipit in corporis corrupti, aliquam officiis!</p>
+
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut adipisci mollitia dicta perspiciatis accusantium ea quas odio. Iusto in alias cumque similique voluptates tempora molestias mollitia sint. Voluptatibus, tempora labore? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolore, mollitia maxime nemo accusamus commodi quibusdam porro magni laudantium quae id possimus iure eveniet doloremque assumenda, tempora, ducimus incidunt. Perspiciatis, corporis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo saepe omnis consequatur est asperiores aliquam quasi officiis non rerum architecto, molestiae reiciendis dicta libero porro. Quibusdam, aspernatur. Saepe, ducimus harum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, possimus at iure obcaecati totam dolorem aspernatur temporibus odio, explicabo quas laboriosam ratione aperiam quia suscipit in corporis corrupti, aliquam officiis!</p>
 </body>
 </html>
