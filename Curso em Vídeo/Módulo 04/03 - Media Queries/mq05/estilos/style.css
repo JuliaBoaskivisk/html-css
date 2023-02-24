@@ -19,8 +19,22 @@ header > h1 {
     text-align: center;
 }
 
-nav {
+#pequenomenu {
+    background-color: rgb(48, 48, 48);
+    color: white;
     display: block;
+    text-align: center;
+    padding-bottom: 10px;
+    cursor: pointer;
+}
+
+#pequenomenu:hover {
+    background-color: white;
+    color: black;
+}
+
+nav {
+   display: none;
 }
 
 nav > ul {
