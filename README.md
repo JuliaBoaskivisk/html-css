@@ -17,6 +17,6 @@
 <a href="https://juliaboaskivisk.github.io/html-css/Curso%20em%20V%C3%ADdeo/Desafios/desafio%2014%20(mais%20uma%20tabela)" target="_blank">Desafio 14 - mais uma tabela</a>
 
 <strong>Módulo 04</strong> <br>
-<a href="https://juliaboaskivisk.github.io/html-css/Curso%20em%20V%C3%ADdeo/Desafios/desafio%2015%20(projeto%20social)" target="_blank">Desafio 15 - projeto social</a>
+<a href="https://juliaboaskivisk.github.io/html-css/Curso%20em%20V%C3%ADdeo/Desafios/desafio%2015%20(projeto%20social)" target="_blank">Desafio 15 - projeto social</a> <br>
 <a href="https://juliaboaskivisk.github.io/html-css/Curso%20em%20V%C3%ADdeo/Projetos/projeto%2016%20-%20Tela%20de%20login/index.html" target="_blank">Projeto 16 - projeto tela de login</a>
 
